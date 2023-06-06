@@ -50,7 +50,7 @@ export default function Mapa() {
 
           {/* 
             Iteramos utilizando ".map": Es una función para iterar sobre un arreglo (nuestro arreglo de "marcadores")
-            Al usar map, podemos difinir un nombre para cada elemento del arreglo ("marcador") y podemos acceder a sus atributos
+            Al usar map, podemos definir un nombre para cada elemento del arreglo ("marcador") y podemos acceder a sus atributos
             Ejemplo: marcador.nombre, marcador.ubicacion.lat, marcador.ubicacion.lng
             (La estructura dependerá de cómo lo definimos en /api/marcadores)
 
