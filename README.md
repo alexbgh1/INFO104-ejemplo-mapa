@@ -6,7 +6,7 @@ npm i react-leaflet
 npm i leaflet-defaulticon-compatibility --save
 ```
 
-## Entrar en `my-app` y ejecutar
+## Entrar en `ej-mapa` y ejecutar
 
 ```bash
 npm install
